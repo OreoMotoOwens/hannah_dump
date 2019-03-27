@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.hannah"
+       file="/system/framework/com.motorola.imager.hannah" />
+</permissions>
