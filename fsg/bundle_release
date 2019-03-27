@@ -1,0 +1,42 @@
+F S G   B U N D L E
+===================
+
+built on:     Thu Jun 28 19:46:59 CDT 2018
+built by:     hudsonmd
+build mach:   ilclbld117
+product:      m8940
+flavor:       customer
+mcfg_ver:     15.77
+
+COMMENTS
+--------
+Release FSG-8953-15.77
+
+RECIPE
+------
+0.img: 3b352c7da0bedb7169302861b2005cb506ee3ba2 
+acglte_usa: 7af5a0bed69c0c79543f185359cf2cea326f3872 
+att_cc_usa: b31456e57c02c6825c3ed755181de85cb590d425 
+att_usa_cricket: c1502a50e0f5976a23b5379747164c5e00d55d74 
+att_usa_cricket_default: fa39c7ed0463cb7d89459db78b184275afecea56 
+att_usa_ims: bf4b4668e7998f59e536b61c3b9be566bfdc16e5 
+bell_can_ims: 21662de117ec98ba2164728f95db16fe4701f34f 
+can_retail: 0cef8d3278ee65285c09735f38627491129b675e 
+cmcc_chn: ea35182ed957b5e69b0f658e15791ee31aba1ad0 
+ct_chn: d2ed9b99ccf1169e356c575c9e8a623536843f06 
+cu_chn: be09de7e3bb2edd4fbb780a091515b069f0b0058 
+freedom_can_ims: fbe5ba5be8478b2c7464f599186b1dbd2422930b 
+hannah_na.img: 64188905a03d5e4dd3d10a33bf742c502060332d 
+hannah_na_tmo.img: 7b09dc9446bcf10d77c5649885cd8815d861183c 
+lra_ompr_usa: c931c79fd5dde862db36320869c5666c613c1b9b 
+rogers_can_ims: ab16afb6baabd81c66a0b4a53248b61bbd2c0b7e 
+sprint_usa_ims: 5aa449e2d2e45fef5707427a25712a201d95971d 
+super: 8ead0096881b307a097048959627c7f75ee2c8cd 
+superset: 350bec3e37669b785a00696e3840304e7d7eb42a 
+telus_can_ims: b35e712d7c359d12de20b1d6b5fba4bb140e28d1 
+tmo_usa: 3dc8de57ab41431bd07ae552dff40fdf137c32fa 
+tmo_usa_ims: 491e29415170a1850d6831db1c9cfff88abd0f63 
+tmo_usa_ims_default: eb5402c44434c98f3e0a9060eac2dd99de92bf50 
+usc_usa_ims: 1dae1b1064e097bf9bf19fd81faf081883389ac2 
+vzw_usa: 98f1f1f8f9143952b28cc418f0de846d1b239af1 
+vzw_usa_retail: 5058d9609463dbebb80b8a11d5d8309cd97d8462 
